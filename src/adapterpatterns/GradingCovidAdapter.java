@@ -7,7 +7,6 @@ package adapterpatterns;
 
 /**
  *
- * @author MALAK MEHTAB KHAN
  */
 public class GradingCovidAdapter implements GradingManager {
     

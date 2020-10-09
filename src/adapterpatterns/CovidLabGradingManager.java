@@ -5,10 +5,7 @@
  */
 package adapterpatterns;
 
-/**
- *
- * @author MALAK MEHTAB KHAN
- */
+/
 public class CovidLabGradingManager implements CovidGradingManager{
     
     @Override

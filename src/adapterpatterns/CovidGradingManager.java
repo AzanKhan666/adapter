@@ -7,8 +7,7 @@ package adapterpatterns;
 
 /**
  *
- * @author MALAK MEHTAB KHAN
- */
+ *
 public interface CovidGradingManager {
     
     public void calculateCovidNonLab(String StudentID);

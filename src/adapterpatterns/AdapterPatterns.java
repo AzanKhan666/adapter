@@ -7,7 +7,7 @@ package adapterpatterns;
 
 /**
  *
- * @author MALAK MEHTAB KHAN
+
  */
 public class AdapterPatterns {
 
@@ -20,7 +20,7 @@ public class AdapterPatterns {
 
 
 
-        labGradingManager.CalculateGrades("Lab", "FA12-BSE-324");
+        labGradingManager.CalculateGrades("Lab", "FA12-BSE-325");
 
         labGradingManager.CalculateGrades("CovidLab", "FA12-BSE-324");
 
